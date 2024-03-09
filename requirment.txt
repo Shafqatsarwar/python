@@ -1,0 +1,9 @@
+numpy
+pandas
+jupyter
+mypy
+//pip install -r requirment.txt
+//conda activate python12
+//conda create -n python12 python==3.12 -y
+//dir
+//python class1.py
